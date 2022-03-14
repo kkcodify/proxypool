@@ -7,6 +7,42 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    
+    
+    
+    
+    # 订阅链接
+- type: subscribe
+  options:
+    url: https://free.zdl.im/clash/proxies
+    
+    # 订阅链接
+- type: subscribe
+  options:
+    url: https://ednovas.design/clash/proxies
+    
+    # 订阅链接
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/clash/proxies?type=all
+    
+    
+    # 订阅链接
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/clash/proxies
+    
+    # 订阅链接
+- type: subscribe
+  options:
+    url: https://free886.herokuapp.com/clash/proxies
+    
+    # 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.fly.dev/clash/proxies
+    
+   
 
 # 网页模糊抓取
 - type: webfuzz
